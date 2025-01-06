@@ -1,5 +1,4 @@
-Portpolio.Apeksha
-Portfolio
+
 Hello, I’m Apeksha Barade👋
 I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. Here’s a glimpse into my journey:
 
