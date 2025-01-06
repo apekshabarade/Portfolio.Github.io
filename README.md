@@ -23,8 +23,8 @@ Expertise in problem-solving through advanced DAA techniques.
 Experience with project development and team collaboration.
 
 🌐 Find Me Online
-GitHub
-LinkedIn
+https://github.com/apekshabarade/Portfolio.Github.io/edit/main/README.md
+https://www.linkedin.com/in/apeksha-barade-0b52582b7/
 Portfolio Highlights
 🎯 Topic:Smart Hotel management system
 
